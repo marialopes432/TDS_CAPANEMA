@@ -15,4 +15,13 @@ console.log(a < b); // 10 e menor
 console.log(a == b); // 10 e igual
 console.log(a === b); // 10 e estritimente igual
 console.log(a <= b); // 10 e menor
-console.log(a > b); // 10 e maior
+console.log(b > a); // 10 e maior
+
+
+//VALORES TRUE
+console.log("valorer TRUE:")
+console.log(a < b);
+console.log(a != b);
+console.log(a <= b);
+console.log(b >= a);
+console.log(b !=a );
